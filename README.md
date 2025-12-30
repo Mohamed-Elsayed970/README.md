@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/24385659/README.md)
 <h1 align="center">Hi 👋, I'm Mohammed Elsayed</h1>
 <h3 align="center">I am a game developer from Egypt .</h3>
 
@@ -8,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohammed-el-sayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-el-sayed" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/‏mohammed el sayed‏" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="‏mohammed el sayed‏" height="30" width="40" /></a>
 <a href="https://fb.com/mohammed elsayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohammed elsayed" height="30" width="40" /></a>
 <a href="https://instagram.com/moh970ed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moh970ed" height="30" width="40" /></a>
 <a href="https://discord.gg/mohammed_970" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mohammed_970" height="30" width="40" /></a>
